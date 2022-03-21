@@ -2,7 +2,7 @@
 
 A shooting game like a simplified version of [The Binding of Isaac](https://store.steampowered.com/app/113200/The_Binding_of_Isaac/).
 
-There are multiple rooms. In one room there are multiple enemies, obstacles, and tools. You can shoot to attack the enemies and objects. The goal is to kill all the bosses.
+There are multiple rooms. In one room there are multiple enemies, obstacles, and tools. You can shoot to attack the enemies and objects. The goal is to defeat all the bosses.
 
 It is a C++ programming exercise as it is written from scratch using OpenGL and there is no advanced data structure involved.
 
